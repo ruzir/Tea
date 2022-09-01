@@ -1,0 +1,68 @@
+{
+    "teas":[
+    { "sno":1,
+      "label":"红茶",
+      "image":"url(src/assets/images/bjt1.jpg)",
+      "name":"下关沱茶",
+      "qty":45,
+      "price":218,
+      "factory":"七彩云南庆沣祥茶业股份有限公司",
+      "format":"357克/饼",
+      "weight":"357克",
+      "craft":"生茶",
+      "exterior":"饼茶",
+      "year":2022,
+      "material":"云南大叶种晒青毛茶",
+      "valid":"适宜长期储存"
+    },
+
+    {   "sno":2,
+        "label":"红茶",
+        "image":"{url(src/assets/images/zcms1.jpg) || url(src/assets/images/zcms2.jpg),}",
+        "name":"中茶茗山",
+        "qty":20,
+        "price":268,
+        "factory":"云南中茶茶业有限公司",
+        "format":"357克/饼",
+        "weight":"357克",
+        "craft":"熟茶",
+        "exterior":"饼茶",
+        "year":2022,
+        "material":"布朗大树",
+        "valid":"适宜长期储存"
+    },
+
+    {   "sno":3,
+        "label":"红茶",
+        "image":"url(src/assets/images/jph.jpg)",
+        "name":"吉普号405蛮润",
+        "qty":15,
+        "price":180,
+        "factory":"勐海众益茶厂有限公司",
+        "format":"200克/饼",
+        "weight":"200克",
+        "craft":"生茶",
+        "exterior":"饼茶",
+        "year":2022,
+        "material":"云南大叶种晒青毛茶",
+        "valid":"适宜长期储存"
+    },
+    {   "sno":4,
+        "label":"红茶",
+        "image":"url(src/assets/images/dy1.jpg)",
+        "name":"大益7672",
+        "qty":30,
+        "price":318,
+        "factory":"大益(云南勐海茶厂)",
+        "format":"357克/饼",
+        "weight":"357克",
+        "craft":"熟茶",
+        "exterior":"饼茶",
+        "year":2020,
+        "material":"云南大叶种晒青毛茶",
+        "valid":"越陈越香"
+        
+    }
+]
+
+}
